@@ -1,9 +1,9 @@
 # ignore files too big
-notebooks/dataframes/all_stan_df.pickle
-notebooks/dataframes/allPreprocessedDf.pickle
-notebooks/dataframes/allPreProcessedFinal.pickle
-notebooks/dataframes/final_stan_df.pickle
-notebooks/dataframes/stan_limited_testdf.pickle
+dataframes/all_stan_df.pickle
+dataframes/allPreprocessedDf.pickle
+dataframes/allPreProcessedFinal.pickle
+dataframes/final_stan_df.pickle
+dataframes/stan_limited_testdf.pickle
 
 # Embeddings will be calculated in notebooks
 embeddings/
